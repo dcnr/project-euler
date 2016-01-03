@@ -4,7 +4,7 @@
   "description": "My Project Euler solutions",
   "main": "index.js",
   "dependencies": {
-    "my-utils": "git@github.com:dcnr/my-utils.git"
+    "my-utils": "git+ssh://git@github.com/dcnr/my-utils.git"
   },
   "devDependencies": {},
   "scripts": {
