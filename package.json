@@ -1,0 +1,27 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "My Project Euler solutions",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcnr/project-euler.git"
+  },
+  "keywords": [
+    "\"euler\"",
+    "\"project",
+    "euler\""
+  ],
+  "private": true,
+  "author": "Norman Dela Cruz",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dcnr/project-euler/issues"
+  },
+  "homepage": "https://github.com/dcnr/project-euler#readme"
+}
